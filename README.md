@@ -21,6 +21,14 @@ A skeleton repo that has the following component installed for github cicd on go
 
 # Release Please
 * https://github.com/googleapis/release-please
+* give default github_token permission to create PR
+* update github --> repo--> setting --> action general --> workflow permissions --> allow GitHub Actions to create and approve pull request
+* need to give the permission in the action yaml
+```
+permissions:
+  contents: write
+  pull-requests: write
+```
 
 # conventional commit
 * https://www.conventionalcommits.org/en/v1.0.0/
