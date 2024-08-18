@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.0](https://github.com/wlai-lp/gocicd/compare/v0.3.1...v0.4.0) (2024-08-18)
+
+
+### Features
+
+* update readme ([252c39a](https://github.com/wlai-lp/gocicd/commit/252c39a4e53d7341a65ced224cb51b6de80ef356))
+* use release please to build binary ([1bfb503](https://github.com/wlai-lp/gocicd/commit/1bfb5038b59e701019adc959c6c1a8893bda602f))
+
 ## [0.3.1](https://github.com/wlai-lp/gocicd/compare/v0.3.0...v0.3.1) (2024-08-18)
 
 
