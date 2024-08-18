@@ -29,6 +29,8 @@ permissions:
   contents: write
   pull-requests: write
 ```
+* this create a new PR and after PR merged, it creates the tag version in the release
+* this does not build all the binaries
 
 # conventional commit
 * https://www.conventionalcommits.org/en/v1.0.0/
