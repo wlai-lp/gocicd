@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
-          release-type: go
+          release-type: simple
       - name: Print release output for debugging
         continue-on-error: true
         run: |
