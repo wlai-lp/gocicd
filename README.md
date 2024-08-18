@@ -6,6 +6,11 @@ A skeleton repo that has the following component installed for github cicd on go
 - `release please` - formatting
 - `conventional commit` - formatting
 
+## Summary
+- github action pulls goreleaser to build, build triggered on new tag version
+- go releaser references .goreleaser.yaml on how to build
+- TODO: use conventional commit and release please 
+
 # Github action
 * https://github.com/marketplace/actions/goreleaser-action#run-on-new-tag
 * see .github/workflow/release.yaml
