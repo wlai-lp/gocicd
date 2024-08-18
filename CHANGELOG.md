@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/wlai-lp/gocicd/compare/v0.2.0...v0.3.0) (2024-08-18)
+
+
+### Features
+
+* see if i takes manifest and build the next minor ([7a023cf](https://github.com/wlai-lp/gocicd/commit/7a023cf6e8215c93f7542dde4d1b6e9742a83c57))
+
 ## [0.2.0](https://github.com/wlai-lp/gocicd/compare/v0.1.10...v0.2.0) (2024-08-18)
 
 
