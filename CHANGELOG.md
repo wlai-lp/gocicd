@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/wlai-lp/gocicd/compare/v0.3.0...v0.3.1) (2024-08-18)
+
+
+### Bug Fixes
+
+* fix readme ([ae2bb42](https://github.com/wlai-lp/gocicd/commit/ae2bb42deb086169494ee0e1f4c07c63e2bb2994))
+
 ## [0.3.0](https://github.com/wlai-lp/gocicd/compare/v0.2.0...v0.3.0) (2024-08-18)
 
 
