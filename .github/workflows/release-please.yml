@@ -28,3 +28,15 @@ jobs:
         run: |
           echo "Release outputs:"
           echo "${{ toJson(steps.release.outputs) }}"
+      - name: Build Go binaries
+        run: |
+          mkdir -p dist
+          GOOS=linux GOARCH=amd64 go build -o dist/yourproject-linux-amd64
+          GOOS=darwin GOARCH=amd64 go build -o dist/yourproject-darwin-amd64
+          GOOS=windows GOARCH=amd64 go build -o dist/yourproject-windows-amd64.exe
+
+      - name: Upload Release Assets
+        uses: actions/upload-artifact@v3
+        with:
+          name: binaries
+          path: dist   
