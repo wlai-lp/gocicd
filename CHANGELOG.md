@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/wlai-lp/gocicd/compare/v0.5.0...v0.5.1) (2024-08-19)
+
+
+### Bug Fixes
+
+* remove stuff that doesn't work ([58a3448](https://github.com/wlai-lp/gocicd/commit/58a3448e74b8f87efbb50ee85c467473486429fd))
+
 ## [0.5.0](https://github.com/wlai-lp/gocicd/compare/v0.4.0...v0.5.0) (2024-08-18)
 
 
