@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.5.0](https://github.com/wlai-lp/gocicd/compare/v0.4.0...v0.5.0) (2024-08-18)
+
+
+### Features
+
+* see if this commit override the last one ([ab5c79a](https://github.com/wlai-lp/gocicd/commit/ab5c79aa3026dedbc46fc8fdd104b6d9e6f26889))
+* try to build project ([ef54e0e](https://github.com/wlai-lp/gocicd/commit/ef54e0e6c65e88d0c884c18201ed0453c9c2b1ea))
+* update release yml ([25ee8ae](https://github.com/wlai-lp/gocicd/commit/25ee8aed1d600260f49a3c18dbd80493e2543bec))
+
 ## [0.4.0](https://github.com/wlai-lp/gocicd/compare/v0.3.1...v0.4.0) (2024-08-18)
 
 
